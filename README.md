@@ -6,7 +6,8 @@ Este repositorio marca la **culminación de la primera etapa** de la iniciativa 
 
 Se desarrolló una aplicación interactiva titulada **"Amigo Secreto"**, la cual permite realizar sorteos aleatorios entre un grupo de amigos. El diseño es intuitivo y se enfoca en brindar una experiencia simple, pero sólida, para este clásico juego social.
 
-![Vista previa](./assets/readme/preview.png)
+<img width="1916" height="995" alt="image" src="https://github.com/user-attachments/assets/1a68b390-0727-42e0-b73c-9e8a075334c6" />
+
 
 ## 📌 Descripción General
 
@@ -29,7 +30,8 @@ La lista de nombres ingresados se muestra en tiempo real debajo del campo de ent
 
 - 🎯 **Sorteo único por nombre:** Cada nombre solo puede ser sorteado una vez. Una vez sorteado, se elimina de la lista de disponibles.<img width="640" height="440" alt="image" src="https://github.com/user-attachments/assets/bc5f3245-c08f-4464-9973-161ed748bc90" />
 
-- 🧍‍♂️ **Ingreso adicional durante el juego:** Mientras el sorteo está activo, se pueden seguir agregando nombres por si alguien fue olvidado inicialmente.<img width="672" height="483" alt="image" src="https://github.com/user-attachments/assets/489087ba-1e7d-476c-a988-a5cf5c296adb" />
+- 🧍‍♂️ **Ingreso adicional durante el juego:** Mientras el sorteo está activo, se pueden seguir agregando nombres por si alguien fue olvidado inicialmente.
+- <img width="672" height="483" alt="image" src="https://github.com/user-attachments/assets/489087ba-1e7d-476c-a988-a5cf5c296adb" />
 
 - ⏸️ **Pausa automática al finalizar:** Cuando todos los nombres han sido sorteados, el sistema se detiene automáticamente y evita nuevos sorteos.<img width="1201" height="832" alt="image" src="https://github.com/user-attachments/assets/392c35a1-5ac7-42e4-8745-6d74838db21d" />
 
